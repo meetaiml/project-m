@@ -1,2 +1,2 @@
 # project-m
-Develop a marketable product for private entities
+Develop and Create Order Chatbot that is capable of accepting orders from the users
